@@ -1,0 +1,12 @@
+
+.title { color: red;
+    background-color: blanchedalmond;
+
+    text-align: center;
+border: 10px black solid;
+padding-top: 20px;
+padding-bottom: 20px;
+
+margin-bottom: 100px;
+}
+#important { color: yellow;}
